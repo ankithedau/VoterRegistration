@@ -1,0 +1,128 @@
+header {
+    width: 100%;
+    height: 16vh;
+    background-size: cover;
+    background-color: black;
+}
+
+.flag {
+    position: absolute;
+    float: left;
+    margin: 31px 14px; 
+}
+
+.vote {
+    position: relative;
+    float: right;
+    margin: 32px 14px;  
+}
+
+.hindi {
+        
+        position: absolute;
+        float: left;
+        margin: 7px 142px;
+        color: #fff;
+        font-weight: bold;
+        font-size: 10px;
+        letter-spacing: 2px;
+    
+}
+
+.english {
+        
+    position: relative;
+    float: right;
+    margin: 3px 40px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 10px;
+    letter-spacing: 1px;
+
+}
+
+.box {
+    padding: 20px 40px;
+    margin: 8px 9px;
+    background-color:whitesmoke;
+    border: black;
+}
+
+.btn {
+    border: black;
+    background-color: darkgray;
+    width: 58px;
+    height: 35px;
+    font-size: 38px;
+    cursor: pointer;
+    display: inline-block;
+    margin-right: 30px;
+  }
+  .btn:hover {
+      background: #4848da;
+    }
+
+    .drop {
+        position: relative;
+        float: right;
+        margin-top: 4px;
+        font-weight: bold;
+        
+    }
+    .dropdown {
+        background-color: darkgray;
+        width: 115px;
+    }
+
+    .form {
+        border-color: black;
+        border-style: outset;
+        border-radius: 5px;
+        background-color: whitesmoke;
+        padding: 20px;
+        margin: 12px 18px;
+      }
+
+      .type {
+          width: 100%;
+          height: 65px;
+          background-color: lightgrey;
+          font-size: 15px;
+          font-weight: bold;
+          padding-top: 8px;
+      }
+      
+      .application {
+        width: 100%;
+        height: 74px;
+        background-color: peachpuff;
+        font-size: 20px;
+        font-weight: 400;
+        padding-top: 8px;
+      }
+
+      .required
+{
+    color: red;
+}
+
+.area {
+    width: 183px;
+    height: 26px;
+}
+
+.end {
+    background-color: green;
+    width: 70px;
+}
+
+footer {
+    background-color: black;
+    width: 100%;
+    height: 10vh; 
+}
+
+.text {
+    text-align: center;
+    color: white;
+}
